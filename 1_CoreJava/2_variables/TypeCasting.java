@@ -7,7 +7,7 @@ public class TypeCasting {
         System.out.println(b); //127
         int a = 257;
         b = (byte) a; // casting
-        System.out.println(b); // 257 % 256 = 1
+        System.out.println(b); // 257 % 256 = 1 , because the complete range is -128 to 128
 
 
         float f= 5.6f;
