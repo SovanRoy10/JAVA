@@ -5,7 +5,6 @@ public class AssignmentOperator {
         int num1 = 7;
         int num2= 5;
 
-
         // int result = num1* num2; //35
         // int result = num1- num2; //2
         // int result = num1+ num2; //12
