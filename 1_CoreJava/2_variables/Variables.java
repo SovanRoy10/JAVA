@@ -1,10 +1,10 @@
 public class Variables {
     public static void main(String[] args) {
         int num1 = 5;
-		int num2 =3;
-		int result = num1 + num2;
+	int num2 =3;
+	int result = num1 + num2;
 
-		short s = 10;
+	short s = 10;
         byte b = 14;
         long lg= 12345l;
         double db = 282.828; // default is double not float
@@ -12,6 +12,6 @@ public class Variables {
         char ch = 'k';
         boolean bool = true;
 
-		System.out.println(bool);
+	System.out.println(bool);
     }
 }
