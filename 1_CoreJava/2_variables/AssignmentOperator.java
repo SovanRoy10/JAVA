@@ -14,7 +14,6 @@ public class AssignmentOperator {
         System.out.println(result);
         num1+=2;
         num1++; //post increment
-        --num1; //pre decrement
-        
+        --num1; //pre decrement  
     }
 }
