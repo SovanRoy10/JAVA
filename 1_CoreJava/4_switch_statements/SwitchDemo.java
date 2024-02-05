@@ -26,7 +26,7 @@ public class SwitchDemo {
 
             default:
                 System.out.println("Day no is invalid!");
-
+      
         }
     }
 }
