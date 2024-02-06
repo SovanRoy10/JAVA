@@ -40,7 +40,7 @@ public class StaticBlocks {
 		
 		obj1.show();
 		
-		//static block is getting called at first
+		//static block is getting called at first 
 		
 		// every time we create any objects:
 		// 1. class loads and 2. objects are instantiated  
