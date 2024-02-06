@@ -28,6 +28,7 @@ class Mobile{
 		
 		//we cannot use non static variables inside static method
 		// System.out.println(brand + " : "+ price + " : "+ name);
+		
 	}
 	
 }
