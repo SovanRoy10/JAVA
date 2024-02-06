@@ -3,7 +3,7 @@ public class Mutable_ImmutableString{
        String s1 = "Sovan";
        String s2 = "Sovan";
 
-       System.out.println(s1==s2);
+       System.out.println(s1==s2); // true
 
        // by default Strings are immutable 
        // to use strings as mutable we have 2 different classes : 1. String buffer and String builder
