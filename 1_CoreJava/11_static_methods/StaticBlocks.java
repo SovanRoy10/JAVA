@@ -48,6 +48,7 @@ public class StaticBlocks {
 		// so for the first object the class is loaded first , then it will call the static blocks , after that the object is instantiated so the constructor is called. 
 		// this is why the the static blocks is getting called first , and irrespective how many objects are created the class is loaded for only once, so the static block is getting called for only one time
 		
+		
 	}
 
 }
