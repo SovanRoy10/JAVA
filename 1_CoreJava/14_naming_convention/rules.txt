@@ -1,0 +1,16 @@
+Camel casing 
+
+class and interface - Calc, Runalble
+
+varable and method - marks,show()
+
+constants - PIE,PORT
+
+showMyMarks() 👉 camel casing 
+
+examples :
+age 👉 variable
+Human() 👉 constructor
+DATA 👉 constact
+
+
